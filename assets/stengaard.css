@@ -1,0 +1,20 @@
+@import url(http://fonts.googleapis.com/css?family=Special+Elite|Open+Sans:300,400);
+
+.welcome {
+    font-family: 'Special Elite', cursive;
+    font-size: 64px;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 160px;
+}
+
+.footer {
+    font-family: 'Open Sans', sans-serif;
+    font-size: x-small;
+    text-align: center;
+    color: gray;
+}
+
+a {
+    color: gray;
+}
