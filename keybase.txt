@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/stengaard
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://stengaard.eu
+  * I am stengaard (https://keybase.io/stengaard) on keybase.
+  * I have a public key with fingerprint F0E6 CB1A 2FBC 793C 9AA7  96CA B221 B141 AAC1 1E96
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "f0e6cb1a2fbc793c9aa796cab221b141aac11e96",
+            "host": "keybase.io",
+            "key_id": "b221b141aac11e96",
+            "uid": "6b138a05cd3231739c4dd50059c10700",
+            "username": "stengaard"
+        },
+        "service": {
+            "hostname": "stengaard.eu",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1403097518,
+    "expire_in": 157680000,
+    "prev": "3c93678472646c45d8fa5e9f76205a227f3130384f36d5de177733b5d2d5fc44",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.22
+Comment: https://keybase.io/crypto
+
+yMHrAnicbZFbSBRtGMd3PRQaaZHkjYVOSUWyzemws1BQXmx0otoIimj3nZl31kGb
+WWdnPa0bUej3ISUZskRZX14Yth0oLzTqU3drYcHEyIS62L6IVBB01YQMD3y+I3UT
+vTfD+39+///zPvPE16dbsq1dRc/2R2Jbw9Y30W8Bi6u95UkQEzSpFnMEsXK4+pEV
+1Qt1n66oBubAZByyokAAUhZEjqdEHgCOZ0UgkCQhEDQBgEgQkGexEqxM85sOFCMA
+P7QpGtLQxa1ISP0DH1gtsAJB2QHOiBJFUgRH8SItSQyOM7xI4ByOm6Af6iq4ABHt
+N6DqBUCXsFAJhuQqRURycLX374gNBpDZp2uGJmoVqFJmGD6HaTRqfSZZDQX3zwy3
+oKgSGhwZqqDuVzQVcxCIFA3FDCVonMJ5jiHsJRis8Sk6dCsmwXCsHUfHbAOrUCT6
+QRTL2WmOZGlWpBnJLgMG8jLHkjgDSJKTKYLCKTstU6zESJDgOI6iBEYiJUYWaRr1
+98NKVcMcDHom8JrzKF4VGAEdYqFX0XMZFmu2ZU1mmrk6S3bWhl8L3fRo7f/nS53Y
+7qkbtvm53hh1aIunTqocuFjfE7PdJK9Gi6a90f6NbTumm5ILrZFcZ3w+9EAcL5j8
+MOlpG3gf/OdjvIDofldUGP4vdySn617Di4luC+0sHnb1Nd/tOHx5uX3bl6MNL9n0
+qeujxY2fElPOzlPJ2bRg4/PEnsXRz2dvjw1nbG+rh5GKwlT4QHnye11PRlxeclmW
+5lLWnYl1zePhM0vV19525j5OvI7fiR0bawHd2uaTnXpWQQcfyv83sffr6d7hucH7
+tHVw9Ar/lydv9vgMPfKwxqqk8JnWXX97JvIPzjf5Lj3Nc+XXRn7cGlw+cWSxb19m
+6VC/TiVTQzkLKznhH5w=
+=ge5h
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/stengaard
+
+==================================================================
